@@ -3,8 +3,7 @@ title: Spatial Inefficiencies in Africa's Trade Network
 publication_types:
   - "3"
 authors:
-  - Graff
-  - Tilman
+  - admin
 publication: "NBER Working Paper #25951"
 abstract: I assess the efficiency of transport networks for every country in
   Africa. Using rich spatial data, I simulate trade flows over more than 70,000
