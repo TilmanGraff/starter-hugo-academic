@@ -16,9 +16,8 @@ title: 'Working Papers'
 subtitle:
 
 design:
-  columns: '1'
+  columns: '2'
 ---
 
-- [**Spatial Inefficiencies in Africa's Trade Network**]({{< relref "/uploads/papers/Graff2019.pdf" >}}) (2019), _NBER Working Paper #25951_
-- [**Spatial Inefficiencies in Africa's Trade Network**]({{< relref "/uploads/papers/Graff2019.pdf" >}}) (2019), _NBER Working Paper #25951_
+- {{< staticref "/uploads/papers/Graff2019.pdf" "newtab" >}}Spatial Inefficiencies in Africa's Trade Network{{< /staticref >}} (2019), _NBER Working Paper #25951_
 - Another test
